@@ -1,0 +1,3 @@
+min interval 0:00:02.428848
+max interval 0:00:05.572187
+avg interval 0:00:04.000518
